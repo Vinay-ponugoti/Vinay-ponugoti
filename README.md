@@ -14,8 +14,7 @@
 ## ➡️ About Me
 
 - 👋 Hi, I'm Vinay! I'm a full-stack(Blockcahin)/AI developer.
-- 🎓 CS @ Clemson University
-- 🎯 I love building web3 tools that enhance everyday life!
+- 🎯 I love building web3 & AI tools that enhance everyday life!
 
 ## ✅ Languages and Frameworks
 
