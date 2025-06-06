@@ -86,6 +86,7 @@
     <td>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/Anthropic-000000?style=flat-square"/>
+      <img src="https://img.shields.io/badge/LangGraph-013243?style=flat-square&logo=numpy&logoColor=white"/>
       <img src="https://img.shields.io/badge/LangChain-5A5FC7?style=flat-square"/>
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
