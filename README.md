@@ -96,6 +96,7 @@
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Codex-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
     </td>
   </tr>
 </table>
