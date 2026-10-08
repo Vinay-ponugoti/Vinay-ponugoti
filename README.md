@@ -31,19 +31,6 @@
 - Led system design sessions improving **API scaling, fault tolerance, and observability**.
 - Achieved **90% test coverage** with automated grader frameworks (Pytest, Selenium, Jest, JUnit).
 
----
-
-## 🚀 Featured Project — VocalScale (AI Voice Assistant Platform)
-
-- Built a full-stack **production voice AI platform** end-to-end as a solo developer.
-- Designed **prompt + tool-calling architecture** to eliminate LLM hallucinations on critical fields (product names, prices, SKUs).
-- Built a **multi-LLM routing layer** (OpenAI, Together, Gemini, Anthropic) with per-provider evaluation to compare model behavior on the same tasks.
-- Implemented **extensible tool-calling system** with automated output validation — effectively a runtime grader catching incorrect tool invocations.
-- Built across a multi-service codebase (**Go + Python + TypeScript**) using Claude Code and Cursor as primary development tools.
-- Designed **evaluation logging and replay tooling** to analyze conversation failures and iterate until behavior was rigorous and reliable.
-
----
-
 ## ✅ Languages and Frameworks
 
 <table>
